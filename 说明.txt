@@ -1,0 +1,27 @@
+1、在网易云申请账号，并申请使用直播
+2、客服会给返回，一系列url
+推流地址
+rtmp://p118c1c8a.live.126.net/live/e37240e16b2245959044d0c67766e790?wsSecret=6d54d0fff5b806cc5b22ed0b2454c625&wsTime=1548125018  
+
+拉流地址(HTTP)
+http://flv118c1c8a.live.126.net/live/e37240e16b2245959044d0c67766e790.flv?netease=flv118c1c8a.live.126.net  
+
+拉流地址(HLS)
+http://pullhls118c1c8a.live.126.net/live/e37240e16b2245959044d0c67766e790/playlist.m3u8  
+
+拉流地址(RTMP)
+rtmp://v118c1c8a.live.126.net/live/e37240e16b2245959044d0c67766e790
+
+
+直播SDK：https://netease.im/vcloud-sdk-demo
+
+3、将推流地址，输入到推流的页面中https://phpdiansang.top/hhh-test/zhibo-tui.html，目前只能在qq浏览器，此过程也可借助软件，播助手，在其输入推流地址即可   
+
+4、在任何浏览器，打开拉流地址，即可观看直播    https://phpdiansang.top/hhh-test/zhibo-la.html
+
+备注，只能是https  服务器
+
+
+
+
+
